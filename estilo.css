@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+#Cabeçalho{
+    text-align: center;
+    background-color: #21022d; ;
+    color: rgb(231, 231, 231);
+}
+#corpodepagina{
+    margin: 24px;
+    background-color: #e2d8e7;
+}
+#cardapio{
+    margin: 16px;
+}
+#vitamina{ 
+   margin-left: 64px;
+   margin-bottom: 32px;
+}
+#imgabacate{
+    width: 150px;
+    height: 150px;
+}
+
+#açai{
+    width: 150px;
+    height: 150px;
+}
+
+#bananacomaveia{
+    width: 150px;
+    height: 150px;
+}
+
+#morango{
+    width: 150px;
+    height: 150px;
+}
+
+#pessego{
+    width: 150px;
+    height: 150px;
+}
+
+#roma{
+    width: 150px;
+    height: 150px;
+}
+
+#zerolactose{
+    margin-top: 32px;
+    width: 600px;
+    height: 300px;
+    
+}
+
+#vitaminazero{
+    padding-top: 64px;
+    text-align: center;
+}
+
+#rodape{
+    background-color: #21022d;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    color: rgb(231, 231, 231);
+    
+}
